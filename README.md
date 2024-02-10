@@ -16,5 +16,5 @@ https://luvris2.tistory.com/855
   
 ## C#_Winform_StartUp_With_Window_Example
 윈도우 시작 시 프로그램을 자동으로 실행하는 방법을 다루는 샘플 프로젝트  
-블로그에서는 레지스트리를 다루는 방법과 함께 설명
+블로그에서는 레지스트리를 다루는 방법과 함께 설명  
 https://luvris2.tistory.com/856  

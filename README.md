@@ -24,3 +24,8 @@ https://luvris2.tistory.com/857
 트레이 아이콘을 등록하여 시스템 트레이에 프로그램을 표시하는 아이콘을 노출시키고  
 시스템 트레이에 아이콘을 통해 프로그램과 상호작용하는 샘플 프로젝트  
 https://luvris2.tistory.com/863
+
+## C#_Winform_Custom_Title_Bar_Example  
+제목 표시줄(타이틀 바)의 UI를 커스터마이징하고  
+창 이동, 최소화, 최대화, 닫기 기능을 재정의하는 샘플 프로젝트  
+https://luvris2.tistory.com/864  

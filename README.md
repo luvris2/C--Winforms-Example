@@ -29,3 +29,8 @@ https://luvris2.tistory.com/863
 제목 표시줄(타이틀 바)의 UI를 커스터마이징하고  
 창 이동, 최소화, 최대화, 닫기 기능을 재정의하는 샘플 프로젝트  
 https://luvris2.tistory.com/864  
+
+## C#_Winform_File_Management_Example  
+StreamReader와 StreaWriter를 이용하여 파일을 읽고 쓰고  
+File 클래스를 이용하여 파일을 이동, 복사, 삭제하는 기능을 구현하는 샘플 프로젝트  
+https://eunbyeol.co.kr/blog/programming/csharp-how-to-file-copy-move-delete  
